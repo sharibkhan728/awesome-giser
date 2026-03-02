@@ -11,7 +11,7 @@
 <br>
 
 <picture>
-  <img src="assets/demo.gif" alt="Awesome GISer demo — browsing free geospatial data sources, GIS tool comparisons, web mapping libraries, and AI prompts for spatial analysis" width="100%" style="max-width: 720px;">
+  <img src="assets/demo.gif" alt="Awesome GISer demo — browsing free geospatial data sources, GIS tool comparisons, web mapping libraries, and AI prompts for spatial analysis" width="720">
 </picture>
 
 <br>
@@ -19,6 +19,17 @@
 **8 modules · 80+ deep-dive pages** — not a link list, but working knowledge with code, comparisons & field-tested patterns
 
 </div>
+
+<!-- AI file navigation index:
+data-sources/ (17 pages): satellite-imagery.md, vector-data.md, elevation-terrain.md, administrative-boundaries.md, climate-weather.md, china-specific.md, ml-training-data.md, urban-planning-smart-cities.md, transportation-autonomous-driving.md, healthcare-public-health.md, agriculture-food-security.md, natural-disasters-emergency-response.md, ocean-maritime.md, energy-power-infrastructure.md, telecommunications-connectivity.md, logistics-delivery-urban-mobility.md, space-aerospace.md
+tools/ (13 pages): desktop-gis.md, mobile-gis.md, cli-tools.md, spatial-databases.md, server-publishing.md, cloud-platforms.md, python-libraries.md, web-mapping.md, remote-sensing.md, ai-ml-geospatial.md, 3d-visualization.md, geocoding-routing.md, etl-data-engineering.md
+js-bindbox/ (9 pages): 2d-mapping.md, 3d-mapping.md, spatial-analysis.md, data-formats-loading.md, tile-servers.md, framework-integration.md, charting-integration.md, performance-optimization.md, realtime-offline-advanced.md
+ai-prompts/ (8 pages): data-analysis-prompts.md, remote-sensing-prompts.md, map-styling-prompts.md, plugin-dev-prompts.md, academic-writing-prompts.md, automation-workflows.md, client-delivery-prompts.md, ai-agent-patterns.md
+visualization/ (10 pages): thematic-maps.md, 3d-visualization.md, temporal-animation.md, cartography-design.md, dashboards.md, storytelling-scrollytelling.md, large-scale-visualization.md, scientific-visualization.md, network-graph-visualization.md, ai-ml-visualization.md
+data-analysis/ (8 pages): python-stack.md, r-stack.md, geospatial-sql.md, spatial-statistics.md, ml-gis.md, cloud-native-analytics.md, time-series-analysis.md, workflow-templates.md
+web-dev/ (8 pages): fullstack-architecture.md, frontend-integration.md, backend-services.md, performance.md, deployment.md, realtime-and-collaboration.md, testing-and-security.md, pwa-and-offline.md
+academic/ (7 pages): journals-list.md, writing-templates.md, cartography-standards.md, research-tools.md, submission-guide.md, academic-platforms.md, reproducibility-open-science.md
+-->
 
 ---
 
@@ -78,7 +89,7 @@ Copy any prompt from [`ai-prompts/`](ai-prompts/) directly into ChatGPT, Claude,
 <details>
 <summary>How an AI agent navigates this repo</summary>
 
-```
+```text
 Your GIS task
      ├── data-sources/    → find the right datasets
      ├── tools/           → pick the best tool
@@ -91,6 +102,12 @@ Your GIS task
 ```
 
 </details>
+
+---
+
+## Start Exploring
+
+Every page is self-contained — pick any module and dive in. Star the repo to track updates, or check [What's Hot in 2025](#whats-hot-in-2025) for the latest tools reshaping GIS work.
 
 ---
 
